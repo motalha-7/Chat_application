@@ -1,7 +1,7 @@
 # React Chat Application with Chat Engine
 
 This is a real-time chat application built using React and Chat Engine. The application supports community creation, sending messages, sharing images, and audio recordings.
-![Chat Application Screenshot](https://your-image-link.com)
+![Chat Application Screenshot](https://github.com/motalha-7/Chat_application/blob/main/Screenshot%202024-08-09%20031031.png)
 
 ## Features
 
